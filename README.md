@@ -110,6 +110,9 @@ arm-linux-androideabi-addr2line -f -C -e sample/build/intermediates/transforms/m
 Crash()
 
 ```
+我的执行结果：
+使用的是64位的addr2line工具
+![](https://cdn.jsdelivr.net/gh/halohoop/cdn/imgs/20200528190723.png)
 补充内容
 =======
 
